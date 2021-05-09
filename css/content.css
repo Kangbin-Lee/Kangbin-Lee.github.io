@@ -1,0 +1,88 @@
+.content-wrap{
+    margin: auto;
+    width: 80%
+}
+
+.content {
+    margin:  1rem auto;
+    /* border: solid; */
+}
+
+.top-content{
+    display: flex;
+}
+
+.box {
+    border: solid;    
+    margin: auto 1rem;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 70%;
+    border-color: #7868e6;
+    overflow: hidden;
+}
+.profile {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.info-wrap{
+    /* border: solid;     */
+    margin-left: 5rem;
+}
+
+.travelwrap{
+    margin-left: 3rem;
+}
+
+.info{
+    /* border: solid; */
+    margin: 1rem auto;
+    padding: 0.5rem 0 0 0;
+}
+
+.travelinfo{
+    /* border: solid; */
+    margin: 0;
+    width: 24rem;
+}
+
+.info1{
+    color: #7868e6;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.info2{
+    /* border: soild; */
+    padding: 0 0 0.5rem 0;
+}
+
+.bottom-content{
+    margin-top: 1rem;
+    /* border: solid; */
+}
+
+.imgbox{
+    width: 40rem;
+    height: 20rem;
+    border: 2px solid #7868e6;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.travelimg{
+    width: 10rem;
+    height: 10rem;
+}
+
+.driving{
+    width: 24rem;
+    height: 18rem;
+}
+
+.drive{
+    width: 24rem;
+    height: 18rem;
+}

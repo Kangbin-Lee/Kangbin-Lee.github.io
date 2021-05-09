@@ -1,0 +1,33 @@
+html,
+body,
+div,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+a,
+p,
+img{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: 'Oswald', sans-serif;
+
+    text-decoration: none;
+}
+
+html,
+body{
+    width: 100%;
+    min-height: 100%;
+    background-color: #EBEAFF;
+}
+
+li,
+a{
+    list-style: none;
+    color:black;
+}

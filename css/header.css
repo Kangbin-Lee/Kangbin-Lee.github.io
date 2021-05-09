@@ -1,0 +1,53 @@
+.header{
+    border-bottom: 2px solid #7868e6;
+    color: #7868e6;
+    height: 7rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.top-header-text{
+    margin-top: 2.5rem;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.mini-header-text{
+    margin-top: 5.5rem;
+    font-size: 0.9rem;
+}
+
+.navbar{
+    height: 3rem;
+    display: flex column;
+    justify-content: flex-start;
+}
+
+.navbar-name{
+    margin: 2rem 0 0.5rem 0;
+    color: #7868e6;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.imagetag{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.img{
+    width: 2.1rem;
+}
+
+.details{
+    margin-right: 1.5rem;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+.details:hover {
+    color:#7868e6;
+}
